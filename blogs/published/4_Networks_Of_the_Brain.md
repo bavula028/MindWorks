@@ -9,6 +9,7 @@
 <p>The <strong>default mode network</strong> is responsible for the activity in the brain when a person is focused on their thoughts and inner functions. Such inner functions include daydreaming and reminiscing, as both functions are based on inner thoughts of a person rather than their reaction to environmental stimuli. The DMN is also active when the brain reacts mentally or psychologically, such as when a person thinks about other social interactions or relationships.
 </p>
 ![brain mri picture](Default_mode_network-WRNMMC.jpg)
+
 </p>
 <p>Above is an MRI scan of the brain when the DMN is active, from the National Institute of Health. During the activity of this network, the medial prefrontal cortex, the adjacent anterior cingulate cortex, the posterior cingulate cortex, and the angular gyrus are all active.
 </p>
